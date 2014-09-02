@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-Testing github
+My name is called Ebo Ewusi
